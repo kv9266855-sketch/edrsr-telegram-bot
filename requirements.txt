@@ -1,0 +1,6 @@
+aiogram>=3.15,<4
+aiosqlite>=0.20,<1
+apscheduler>=3.10,<4
+playwright>=1.48,<2
+python-dotenv>=1.0,<2
+tzdata>=2025.2
